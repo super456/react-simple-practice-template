@@ -1,5 +1,5 @@
 ## React 简单练习模版
-基于 react & react-dom 库，方便、简单、快速起一个项目做一些 demo 练习应用
+基于 react18 & react-dom18 库，方便、简单、快速起一个项目做一些 demo 练习应用
 
 ### 快速开始
 1. clone 项目；
